@@ -1,6 +1,3 @@
-from random import random
-import random
-
 def partition(data, low, high, column_name):
     E = low
     G = low

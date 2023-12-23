@@ -1,6 +1,6 @@
 # C:\\Users\\user\\Desktop\\code\\алгоритмы и задачи\\1.0\\random_numbers.csv
 # C:\\Users\\user\\Desktop\\code\\алгоритмы и задачи\\1.0\\sort_numbers.csv
-from quicksort_handlers import quicksort
+from quicksort_utils import quicksort
 import pandas as pd
 
 PATH = input('введите путь к таблице')
